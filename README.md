@@ -51,7 +51,7 @@ iOS 14+ (because it uses SwiftUI features like LazyVGrid and @StateObject)
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ImageGallery.git
+git clone https://github.com/iOSCodeCraft/ImageGallery.git
 ```
 ### Open the project in Xcode:
 ```bash
