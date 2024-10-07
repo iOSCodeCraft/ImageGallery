@@ -1,17 +1,14 @@
 # Image Gallery
 
 This project displays a grid of images fetched from a remote API and allows users to view details of each image. The project consists of two main views:
-
+<p float="center">
+  <img src="https://github.com/user-attachments/assets/6e8de6cf-3ce5-4869-90cd-1109895cdd4d" width="200" height="400" />
+  <img src="https://github.com/user-attachments/assets/fb601548-8194-49bb-93f4-032d5a6b33fa" width="200" height="400" />
+</p>
 ## ImageGridView: 
 A grid-based gallery that shows image thumbnails.
-
-![App Screenshot](https://github.com/user-attachments/assets/6e8de6cf-3ce5-4869-90cd-1109895cdd4d)
-
 ## ImageDetailView: 
 A detailed view for individual images when selected from the grid that shows original image.
-
-![App Screenshot](https://github.com/user-attachments/assets/fb601548-8194-49bb-93f4-032d5a6b33fa)
-
 ## Features
 1. Image Grid View (ImageGridView)
 Displays a scrollable grid of images using LazyVGrid.
